@@ -11,7 +11,7 @@ Mane-Kelsa is a hyper-local Android app connecting domestic workers and gardener
 ### Worker Account Creation Page
 <img width="405" height="836" alt="Screenshot 2026-05-18 223513" src="https://github.com/user-attachments/assets/b575e8b1-94f3-4318-9d35-36b8b1af84ad" />
 
-### Worker Account Hirer Page
+### Hirer Account Creation Page
 <img width="407" height="838" alt="Screenshot 2026-05-18 223551" src="https://github.com/user-attachments/assets/b0b785ee-ffb8-4240-ade4-75e0d5379fb0" />
 
 ### Worker Login page
@@ -39,8 +39,9 @@ Mane-Kelsa is a hyper-local Android app connecting domestic workers and gardener
 ### Hirer Home Page
 <img width="401" height="827" alt="Screenshot 2026-05-18 230841" src="https://github.com/user-attachments/assets/1c7dbc86-887f-4d79-afe3-51a010a436a2" />
 
-###Hirer Sends a Request to a Worker
+### Hirer Sends a Request to a Worker
 <img width="402" height="835" alt="Screenshot 2026-05-18 230904" src="https://github.com/user-attachments/assets/cd8de158-8130-4f76-be98-fbfacbdb9d03" />
+
 <img width="394" height="835" alt="Screenshot 2026-05-18 230918" src="https://github.com/user-attachments/assets/54b16e49-86a7-4ef5-b669-85b4d370bc3d" />
 
 ### Hirer Profile 
@@ -49,12 +50,12 @@ Mane-Kelsa is a hyper-local Android app connecting domestic workers and gardener
 ### Hirer Setting Page
 <img width="410" height="823" alt="Screenshot 2026-05-18 230951" src="https://github.com/user-attachments/assets/4893f037-f1ce-4c9c-a938-24472419ee28" />
 
-###Once the hirer sends a request, the worker can either accept or reject it
+### Once the hirer sends a request, the worker can either accept or reject it
 <img width="395" height="836" alt="Screenshot 2026-05-18 231038" src="https://github.com/user-attachments/assets/049bbffb-4da7-40b2-87d6-f36b96527a74" />
 
-###If the worker accepts the request, the hirer's details will be displayed
+### If the worker accepts the request, the hirer's details will be displayed
 <img width="395" height="834" alt="Screenshot 2026-05-18 231225" src="https://github.com/user-attachments/assets/70b6cb90-1a9b-46b2-96f6-83aadb01e170" />
 
-###The hirer can contact the worker using the calling feature to discuss the work. Once the work is completed, the hirer can write a review and give a 👍 (thumbs-up) rating if satisfied with the worker's performance. After the task is finished, the hirer can update the worker's status to "Work Completed."
+### The hirer can contact the worker using the calling feature to discuss the work. Once the work is completed, the hirer can write a review and give a 👍 (thumbs-up) rating if satisfied with the worker's performance. After the task is finished, the hirer can update the worker's status to "Work Completed."
 <img width="401" height="837" alt="Screenshot 2026-05-18 231245" src="https://github.com/user-attachments/assets/700e9c06-8eab-4ba4-8fe1-46ca004f2c4d" />
 
